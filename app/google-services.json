@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496345909016",
+    "project_id": "sendry-6a7e0",
+    "storage_bucket": "sendry-6a7e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496345909016:android:51a788f915b7756ff9406d",
+        "android_client_info": {
+          "package_name": "com.example.sendry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496345909016-qdafhsggk8t1q7qksj3hdhlt32n6tb42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkr5gGXDH7hKu92HeAgvQ_pJz1h0KxrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496345909016-qdafhsggk8t1q7qksj3hdhlt32n6tb42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
